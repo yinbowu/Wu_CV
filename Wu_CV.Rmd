@@ -46,8 +46,8 @@ urlcolor: black
 ## **Fellowships and Awards**
 2019  Buffett Institute Graduate Fellowship, The Buffett Early Childhood Institute  
 2019  Warden Research Fellowship, University of Nebraska-Lincoln  
-2017, 2019  RAC/Warden Travel Award, University of Nebraska-Lincoln  
-2011, 2014  Outstanding Graduate Award, Soochow University
+2019, 2017  RAC/Warden Travel Award, University of Nebraska-Lincoln  
+2014, 2011  Outstanding Graduate Award, Soochow University
 
 ## **Publications**
 
@@ -70,7 +70,7 @@ urlcolor: black
 ## **Teaching Experiences**
 ### *Instructor*
 1. 2020 PSYC 289: Developmental Psychology, University of Nebraska-Lincoln
-1. 2017, 2018 PSY 350: Research Methods and Analysis, University of Nebraska-Lincoln  
+1. 2018, 2017 PSY 350: Research Methods and Analysis, University of Nebraska-Lincoln  
   
 ### *Teaching Assistant*
 1. 2019 PSYC 273: Brain and Behavior, University of Nebraska-Lincoln
