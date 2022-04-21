@@ -49,16 +49,18 @@ urlcolor: black
 2019, 2017  RAC/Warden Travel Award, University of Nebraska-Lincoln  
 2014, 2011  Outstanding Graduate Award, Soochow University
 
-## **Publications**
+## **Publications** 
+^+^indicates co-first author
 
-1. Schutte, A. R., **Wu, Y**., & Jacoby, M. (2022). Individual differences in executive attention and inhibitory control are related to spatial memory biases in adults. *Quarterly Journal of Experimental Psychology*.
+1. Schutte, A. R., ^+^**Wu, Y**., & Jacoby, M. (2022). Individual differences in executive attention and inhibitory control are related to spatial memory biases in adults. *Quarterly Journal of Experimental Psychology*. doi: 10.1177/17470218221092776
 1. **Wu, Y**., & Schutte, A. R. (2021). Attentional shifting mediates the relationship between parenting and working memory. *Journal of Cognition and Development*, *22*(5), 667-677. doi: 10.1080/15248372.2021.1976781
 1. **Wu, Y**., & Schutte, A. R. (2020). Test of a relationship between spatial working memory and perception of symmetry axes in 3- to 6-year olds. *Spatial Cognition and Computation*, *20*(2), 104-133. doi: 10.1080/13875868.2020.1731515
-1. **Wu, Y**., & Schutte, A. R. (under review). Parenting and attention are related to spatial memory in early childhood.
+1. **Wu, Y**., & Schutte, A. R. (under revision). Parenting and attention are related to spatial memory in early childhood.
 1. Schutte, A. R. & **Wu, Y**. (under revision). Head injury is associated with subtle spatial memory impairment in adults. 
 
 ## **Conference Presentations**
 
+1. Wang, Y.Y., & **Wu, Y.** (2022, April). *Hemodynamics of Speech-evoked Networks in Adult: an fNIRS Study*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA
 1. Jacoby, M. N., **Wu, Y**., & Schutte, A. R. (2021, May). *Cognitive control is related to spatial memory biases in adults*. Poster presented at the Visual Sciences Society Conference, St. Pete Beach, FL
 1. **Wu, Y**. & Schutte, A. R. (2021, April). *Attentional shifting mediates the relationship between parenting and working memory*. Paper presented at the Society for Research in Child Development Virtual Biennial Meeting.
 1. **Wu, Y**. & Schutte, A. R. (2021, April). *Parenting, attention and verbal and spatial working memory in early childhood*. Poster presented at the Society for Research in Child Development Virtual Biennial Meeting.
@@ -74,7 +76,7 @@ urlcolor: black
   
 ### *Teaching Assistant*
 1. 2019 PSYC 273: Brain and Behavior, University of Nebraska-Lincoln
-1. 2018 PSY 948: Structural Equation Modeling in the Behavior Sciences, University of Nebraska-Lincoln
+1. 2018 PSYC 948: Structural Equation Modeling in the Behavior Sciences, University of Nebraska-Lincoln
 1. 2018 PSYC 330: Psychology of Diversity, University of Nebraska-Lincoln
 1. 2016 PSYC 489: Child Behavior and Development, University of Nebraska-Lincoln  
 
