@@ -10,9 +10,9 @@ title: "CV"
 author: Yinbo Wu
 
 # jobtitle: "Chief Brewer, Arthur Guinness & Son"
-# address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+address: "11200 SW 8th Street ·DM256· Miami FL"
 fontawesome: no
-email: yinbo.wu@huskers.unl.edu
+email: yinbo.wu@fiu.edu
 # github: svmiller
 # twitter: stevenvmiller
 #osf: "Enter 5 digit osf string here"
@@ -31,6 +31,8 @@ urlcolor: black
 
 
 ## **Academic Positions**
+* 2022  Postdoctoral fellow, Department of Psychology, Florida International University  
+  * Project: "Individual differences in the development of spatial skills: role of hippocampal function and structure"  
 * 2021  Postdoctoral fellow, Department of Special Education & Communication Disorders, University of Nebraska-Lincoln
   * Project: “Neural predictors of speech perception in adults with Cochlear Implants”
 
@@ -64,7 +66,7 @@ urlcolor: black
 1. Jacoby, M. N., **Wu, Y**., & Schutte, A. R. (2021, May). *Cognitive control is related to spatial memory biases in adults*. Poster presented at the Visual Sciences Society Conference, St. Pete Beach, FL
 1. **Wu, Y**. & Schutte, A. R. (2021, April). *Attentional shifting mediates the relationship between parenting and working memory*. Paper presented at the Society for Research in Child Development Virtual Biennial Meeting.
 1. **Wu, Y**. & Schutte, A. R. (2021, April). *Parenting, attention and verbal and spatial working memory in early childhood*. Poster presented at the Society for Research in Child Development Virtual Biennial Meeting.
-1.**Wu, Y**. & Schutte, A. R. (2021, June). *Parenting, attention and working memory in early childhood*. Paper presented at the 50th Virtual Annual Meeting of The Jean Piaget Society. 
+1. **Wu, Y**. & Schutte, A. R. (2021, June). *Parenting, attention and working memory in early childhood*. Paper presented at the 50th Virtual Annual Meeting of The Jean Piaget Society.
 1. **Wu, Y**. & Schutte, A. R. (2019, October). *Age of traumatic brain injury (TBI) is associated with spatial memory impairments*. Poster presented at the Cognitive Development Society Conference, Louisville, KY.
 1. **Wu, Y**. & Schutte, A. R. (2018, October). *Developmental changes in unfocused play and the relationship with maternal sensitivity in early childhood*. Paper presented at the SRCD Conference on the Use of Secondary and Open Source Data, Phoenix, AZ.
 1. **Wu, Y**. & Schutte, A. R. (2017, April). *A relationship between spatial memory biases and perception of symmetry axes in early childhood*. Poster presented at the Society for Research in Child Development Biennial Meeting, Austin, TX.
@@ -76,13 +78,13 @@ urlcolor: black
   
 ### *Teaching Assistant*
 1. 2019 PSYC 273: Brain and Behavior, University of Nebraska-Lincoln
-1. 2018 PSYC 948: Structural Equation Modeling in the Behavior Sciences, University of Nebraska-Lincoln
+1. 2018 PSYC 948 (Graduate-level Course): Structural Equation Modeling in the Behavior Sciences, University of Nebraska-Lincoln
 1. 2018 PSYC 330: Psychology of Diversity, University of Nebraska-Lincoln
 1. 2016 PSYC 489: Child Behavior and Development, University of Nebraska-Lincoln  
 
 ## **Statistical Training Workshops**
 
-Data Visualization   
+Data Science and Visualization in R  
 Latent Growth Curve Modeling    
 Multilevel Modeling: A Second Course  
 Multilevel and Mixed Models Using R  
