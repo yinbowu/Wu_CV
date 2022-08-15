@@ -10,7 +10,7 @@ title: "CV"
 author: Yinbo Wu
 
 # jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "11200 SW 8th Street ·DM256· Miami FL"
+# address: "11200 SW 8th Street ·DM256· Miami FL"
 fontawesome: no
 email: yinbo.wu@fiu.edu
 # github: svmiller
@@ -37,12 +37,12 @@ urlcolor: black
   * Project: “Neural predictors of speech perception in adults with Cochlear Implants”
 
 ## **Education**
-* 2020 Ph.D., Developmental Psychology, University of Nebraska-Lincoln, USA
-  * Dissertation: “The association between parenting, attention and working memory in early childhood”
-* 2018 M.A., Developmental Psychology, University of Nebraska-Lincoln, USA
-  * Thesis: “The developmental trajectory of unfocused play and its relationship with maternal sensitivity”
+* 2020 Ph.D., Developmental Psychology, University of Nebraska-Lincoln
+  * Dissertation: “The association between parenting, attention and working memory in early childhood”  
+* 2018 M.A., Developmental Psychology, University of Nebraska-Lincoln
+  * Thesis: “The developmental trajectory of unfocused play and its relationship with maternal sensitivity”  
 * 2014 M.EDU., Applied Psychology, Soochow University, China  
-  * Thesis: “Family structures and marital relations in different demographic groups”
+  * Thesis: “Family structures and marital relations in different demographic groups”  
 * 2011  B.S., Applied Psychology, Soochow University, China
 
 ## **Fellowships and Awards**
